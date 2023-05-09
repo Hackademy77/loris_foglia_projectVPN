@@ -1,0 +1,12 @@
+.myrow{
+    margin-top:100px
+}
+.padding-none{
+    padding: 0;
+}
+.card{
+    border: none;
+}
+.navbar-brand {
+    padding: 10px;
+}
